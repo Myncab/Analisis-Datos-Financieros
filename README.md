@@ -1,8 +1,8 @@
-# Análisis Datos Financieros Edutek
+# Análisis-Datos-Financieros-Edutek
 
 Fuentes de Datos utilizados:
 - JSON ( GASTOS DE VENTA )
-- SQL ( VENTAS )
+- SQL ( VENTAS ) [dbo].[PJ_MYNORC]
 - SNOSFLAKE ( GASTOS OPERATIVOS )
 - EXCEL (POWER QUERY)
 
