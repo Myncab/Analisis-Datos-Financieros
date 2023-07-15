@@ -1,4 +1,10 @@
-# Analisis-Datos-Financieros
+# Análisis Datos Financieros Edutek
+
+Fuentes de Datos utilizados:
+- JSON ( GASTOS DE VENTA )
+- SQL ( VENTAS )
+- SNOSFLAKE ( GASTOS OPERATIVOS )
+- EXCEL (POWER QUERY)
 
 Resumen:
 El objetivo de este proyecto es aprovechar el poder del análisis de datos para mejorar la eficiencia operativa y respaldar la toma de decisiones estratégicas en la empresa el pato azul. Mediante el análisis de conjuntos de datos internos financieros relevantes, se busca identificar patrones, tendencias y relaciones ocultas que puedan proporcionar información valiosa para mejorar la eficiencia, optimizar los procesos y brindar una ventaja competitiva.
